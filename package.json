@@ -27,7 +27,7 @@
     "stripe": "^6.28.0"
   },
   "devDependencies": {
-    "@types/faker": "^4.1.5",
+    "@types/faker": "^6.6.8",
     "ngrok": "^3.2.7"
   }
 }
